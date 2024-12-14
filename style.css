@@ -9,3 +9,9 @@ body {
     background-color: darkblue;
     color: aliceblue;
 }
+
+header {
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
